@@ -1,0 +1,40 @@
+fileFormatVersion: 2
+guid: 2175e9ec12a719b48a912db4089b218d
+timeCreated: 1524342049
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Normal_Block: {fileID: 1150364525467170, guid: a32559468cd837c419eabb841f3c7782,
+      type: 2}
+  - Void_Block: {fileID: 1780322602991998, guid: e2d2a08a66a01c646b9bb182c53538df,
+      type: 2}
+  - Tetramino_Block_1: {fileID: 1031413918297500, guid: 1da9b132f791f364da1bb8a9150d4599,
+      type: 2}
+  - Tetramino_Block_2: {fileID: 1295401772285708, guid: ecbbb5ecfb98bc64a8c7476a828322ca,
+      type: 2}
+  - Tower_Block: {fileID: 1717528803196810, guid: ab0b4476c1d7f824386287895498784e,
+      type: 2}
+  - AT_Table_Block: {fileID: 1989471168037328, guid: 479201c29ee683140b62a49fb35d1bf1,
+      type: 2}
+  - ST_Table_Block: {fileID: 1815048450634250, guid: f742b69254d6efd41a0237fe17223976,
+      type: 2}
+  - LT_Table_Block: {fileID: 1440455045194874, guid: 942ee6693f9ced848bd58378db26df27,
+      type: 2}
+  - AT_Table_BlockP2: {fileID: 1312165845149988, guid: b8af3f72984175c44835c180f734c8b0,
+      type: 2}
+  - ST_Table_BlockP2: {fileID: 1604644939232894, guid: 98569728eadcee8428280034ee7bfd20,
+      type: 2}
+  - LT_Table_BlockP2: {fileID: 1299736836114594, guid: f5a6764c05aa0c14c969e7602087d0be,
+      type: 2}
+  - Token_Block: {fileID: 1130114389999666, guid: df6252c1d8f70e746aeed3e326b32909,
+      type: 2}
+  - Minion_Block: {fileID: 1829812921916288, guid: e20f60bbfcbf81e43870039fc6b87fac,
+      type: 2}
+  - Chosen: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
